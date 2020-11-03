@@ -1,4 +1,4 @@
-name: BlockGens
+name: Block-Generators
 main: Kirkham05\BlockGens\Main
 version: 0.0.1
 api: 3.0.0
