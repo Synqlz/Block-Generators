@@ -2,8 +2,8 @@
 
 This is a plugin that will allow players to place a Block Generator that will spawn a block of your choice above it.
 
-What is a Generator?
-A Generator is a block that spawns other optional blocks above it.
+What is a Block Generator?
+A Block Generator is a block that spawns other optional blocks above it.
 
 ### Configuration
 |Option|Description|
