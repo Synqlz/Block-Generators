@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Kirkham05/Block-Generators
+build-by-default: true
+branches:
+- main
+projects:
+  Block-Generators:
+    path: ""
+...
