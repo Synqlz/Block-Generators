@@ -1,9 +1,9 @@
-#Block-gens
+Block-gens
 
 With this plugin players are able to place blocks that will spawn block of your choice above it.
 
 
-#Configuration
+Configuration
 |Option|Description|
 |------|-----------|
 |max_stack|Determines the max amount of Generators you can have in 1 block|
