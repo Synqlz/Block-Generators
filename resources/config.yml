@@ -1,0 +1,10 @@
+max_stack: 10 #The max amount of Generators a player can stack inside of one.
+
+gen_rate: 40 #Gen rate in Ticks, 20 Ticks = 1s.
+
+gen_rate_decrease: 2 #Amount of ticks to decrease gen_rate by per Generator in the stack.
+
+generators: [
+    "159:3:56:0", #Block Generator in format BlockPlacedId:BlockPlacedMetaID:BlockGennedID:BlockGennedMetaID
+    "159:2:14:0"
+  ]
